@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yd/duchangchun/tunnel_monitor/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/yd/duchangchun/tunnel_monitor/src/action_recognition/include/**",
+        "/home/yd/duchangchun/tunnel_monitor/src/common/include/**",
+        "/home/yd/duchangchun/tunnel_monitor/src/object_detect2d/include/**",
+        "/home/yd/duchangchun/tunnel_monitor/src/object_localize3d/person_angle/include/**",
+        "/home/yd/duchangchun/tunnel_monitor/src/object_localize3d/person_localize2d/include/**",
+        "/home/yd/duchangchun/tunnel_monitor/src/video_capture_service/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
